@@ -1,0 +1,3 @@
+model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std
+Logistic Regression,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+Random Forest,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
